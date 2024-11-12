@@ -1,0 +1,7 @@
+E:\Codigos\C#\Reserva Hoteis\Reserva Hotel\obj\Debug\net8.0\Propety Maneger.csproj.AssemblyReference.cache
+E:\Codigos\C#\Reserva Hoteis\Reserva Hotel\obj\Debug\net8.0\Propety Maneger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos\C#\Reserva Hoteis\Reserva Hotel\obj\Debug\net8.0\Propety Maneger.AssemblyInfoInputs.cache
+E:\Codigos\C#\Reserva Hoteis\Reserva Hotel\obj\Debug\net8.0\Propety Maneger.AssemblyInfo.cs
+E:\Codigos\C#\Reserva Hoteis\Reserva Hotel\obj\Debug\net8.0\Propety Maneger.csproj.CoreCompileInputs.cache
+E:\Codigos\C#\Reserva Hoteis\Reserva Hotel\obj\Debug\net8.0\Propety Maneger.MvcApplicationPartsAssemblyInfo.cs
+E:\Codigos\C#\Reserva Hoteis\Reserva Hotel\obj\Debug\net8.0\Propety Maneger.MvcApplicationPartsAssemblyInfo.cache
